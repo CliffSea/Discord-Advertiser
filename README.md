@@ -1,1 +1,1 @@
-I'm not Responsible of any bad use of this code :p
+I'm not responsible for any bad use of this code.
