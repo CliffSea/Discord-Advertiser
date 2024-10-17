@@ -1,0 +1,1 @@
+I'm not Responsible of any bad use of this code :p

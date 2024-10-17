@@ -1,0 +1,16 @@
+{
+  "name": "waaaaa",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@std/random": "npm:@jsr/std__random",
+    "discord.js-selfbot-v13": "^3.4.0",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
